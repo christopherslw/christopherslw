@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research - Christopher S. Lopez Wagner</title>
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1>Christopher S. Lopez Wagner - Research</h1>
+  </div>
+</header>
+<nav>
+  <div class="container">
+    <a href=#>Main</a>
+    <a href=#>CV</a>
+    <a href="research.html">Research</a>
+    <a href=#>Projects</a>
+  </div>
+</nav>
+<div class="container">
+  <h2>Research Interests</h2>
+  <p>My research interests include...</p>
+
+  <h2>Ongoing Projects</h2>
+  <p>Here are some of the projects I'm currently working on...</p>
+  
+  <h2>Publications</h2>
+  <p>Below is a selection of my published work...</p>
+
+  <!-- You can add more sections as needed -->
+</div>
+<footer>
+  <div class="container">
+    <p>© 2024 Christopher S. Lopez Wagner</p>
+  </div>
+</footer>
+</body>
+</html>
